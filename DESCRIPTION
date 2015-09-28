@@ -1,0 +1,8 @@
+Package: dsetsR
+Title: Support Functions and Datasets for DSE
+Version: 0.0.0.9000
+Authors@R: Syed Fuad <syed.m.fuad@gmail.com>
+Description: Functions and 10-yr data sets to support time series analysis on Dhaka Stock Exchange
+Depends: R (>= 3.1.2)
+License: GPL-3
+LazyData: true
